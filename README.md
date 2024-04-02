@@ -1,8 +1,20 @@
-## What is Riddle roomz 
-Riddle roomz is a fun platform where anyone can go to and have fun.
+## What is Riddle Roomz 
+Riddle roomz is a fun platform where anyone can go to, and have fun!
 
-You can also have fun by racing with friends or even see how acurate you are.
+You can also have fun by racing with friends or even see how accurate you are!
 
-In this site I have created 20 riddles for you.
+In this site I have created 20 riddles for you!
 
-Can you get all of them correct
+All ages are allowed here!
+
+So welcome and hope you have fun!
+
+## How do you play Riddle Roomz
+
+If you get a riddle correct you will get 5 coinz.
+
+You can spend some coinz on things you like.
+
+When you have 10,000 coinz you can buy a certificate.
+
+and for fun you can also get a certificate for you house and it will be hung on the wall.
