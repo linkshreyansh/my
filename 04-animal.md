@@ -7,9 +7,6 @@ I’m a mammal with quills on my back, and when I’m scared, I attack. What am 
 Select One answer from below
 
 A) 
-
 B) 
-
 C) 
-
 D) 
