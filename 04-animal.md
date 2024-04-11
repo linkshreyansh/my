@@ -1,12 +1,11 @@
-## Quills in my back
+<!-- Answer = -->
+
+## Sharp vision
+I’m a nocturnal bird of prey, known for my silent flight and sharp vision. What am I?
 
 
-I’m a mammal with quills on my back, and when I’m scared, I attack. What am I?
-
-
-Select One answer from below
-
-A) 
-B) 
-C) 
-D) 
+## Select One answer from below
+- A) Vulture
+- B) snake
+- C) Owl
+- d) cat
