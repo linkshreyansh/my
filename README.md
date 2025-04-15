@@ -1,4 +1,3 @@
-<img width="510" alt="image" src="https://github.com/user-attachments/assets/20892c17-e7e8-46b6-9751-df6b80715eac" />
 
 
 ## What is Riddle Roomz 
@@ -11,6 +10,8 @@ In this site I have created 20 riddles for you!
 All ages are allowed here!
 
 So welcome and hope you have fun!
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8747cf6b-51c6-4f7b-9246-b0545ca7cb2d" />
 
 ## How do you play Riddle Roomz
 
