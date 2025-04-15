@@ -1,3 +1,6 @@
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/20892c17-e7e8-46b6-9751-df6b80715eac" />
+
+
 ## What is Riddle Roomz 
 Riddle roomz is a fun platform where anyone can go to, and have fun!
 
