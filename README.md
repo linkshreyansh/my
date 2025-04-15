@@ -1,5 +1,5 @@
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/e17a91d8-1a82-485a-b1f7-e37d5a076d0a" />
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8747cf6b-51c6-4f7b-9246-b0545ca7cb2d" />
 
 ## What is Riddle Roomz 
 Riddle roomz is a fun platform where anyone can go to, and have fun!
@@ -12,7 +12,7 @@ All ages are allowed here!
 
 So welcome and hope you have fun!
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/8747cf6b-51c6-4f7b-9246-b0545ca7cb2d" />
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/e17a91d8-1a82-485a-b1f7-e37d5a076d0a" />
 
 ## How do you play Riddle Roomz
 
