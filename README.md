@@ -1,3 +1,4 @@
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/e17a91d8-1a82-485a-b1f7-e37d5a076d0a" />
 
 
 ## What is Riddle Roomz 
